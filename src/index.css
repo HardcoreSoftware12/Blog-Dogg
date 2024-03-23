@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* @import url('https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap') */
+
+body{
+  margin: 0;
+  padding: 0;
+  /* min-height: 1000vh; */
+}
+
+.my-class{
+  height: calc(100vh - 100px);
+  /* background-color: red; */
+}
+
+::-webkit-scrollbar{
+  display: none;
+}
+

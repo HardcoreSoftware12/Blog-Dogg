@@ -31,8 +31,6 @@ To run this project, you will need to add the following environment variables to
 `SECRET`
 
 
-## Demo
 
-Insert gif or link to demo
 
-https://drive.google.com/file/d/1LVStb0SqC8cYu9uUpFn3FecKlLQsWsOo/view?usp=sharing
+
